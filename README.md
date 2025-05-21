@@ -1,4 +1,4 @@
-# 🛠 Internship Daily Tasks
+# 🛠 Hashagile-technologies-internship-task
 
 Welcome to my internship project repository! This repo contains all the tasks I completed during my 1-month internship.  
 Each task is organized by date in separate folders and includes code, documentation, and SQL or ETL setup steps when applicable.
